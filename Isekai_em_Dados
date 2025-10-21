@@ -1,0 +1,23 @@
+Escreva o conteúdo para um e-book com o título "Seu Novo Isekai em Dados: Power BI Descomplicado para Iniciantes 40+" do autor Diego Satochi.
+
+**Objetivo Principal:** Criar um guia amigável, motivador e prático para profissionais com mais de 40 anos que estão migrando de carreira para a área de análise de dados usando o Power BI.
+
+**Tom e Voz:**
+1.  **Temática Isekai:** Use consistentemente a analogia de "Isekai" (gênero de anime onde o protagonista é transportado para um novo mundo). A transição de carreira é a "invocação", o Power BI é o "novo mundo", dados são a "moeda", relatórios são "dashboards mágicos", e o leitor é o "herói" ou "aventureiro".
+2.  **Empático e Encorajador:** Fale diretamente com o leitor 40+. Reconheça e valorize sua experiência de vida e carreira como uma vantagem, não uma desvantagem.
+3.  **Humor Inteligente:** Inclua momentos de humor leve e piadas que o público-alvo entenda (ex: comparar relatórios antigos com "pergaminhos escritos à mão").
+4.  **Simples e Direto:** Evite jargões técnicos excessivos. Quando um termo técnico for necessário (como DAX, Power Query), explique-o usando as analogias do Isekai (ex: Power Query é o "feitiço de purificação", DAX é o "grimório proibido").
+
+**Estrutura do E-book (Siga esta estrutura rigorosamente):**
+
+*   **Agradecimentos:** Escreva um texto de agradecimento ao "aventureiro de mais de quarenta anos", enfatizando que sua bagagem de vida é seu maior superpoder neste novo universo dos dados.
+*   **Introdução: A Invocação e o Portal:** Crie uma introdução que estabelece o cenário de um profissional cansado da rotina, que recebe um "chamado" para o mundo dos dados. Apresente o Power BI como a ferramenta que transformará sua sabedoria em poder.
+*   **Capítulo 1: O Despertar do Herói (Por Que Power BI?):** Explique o que é o Power BI e por que ele é perfeito para a migração 40+. Destaque como a ferramenta valoriza o senso de negócio que vem com a experiência. Defina "Dados Estruturados" e "Dados Não Estruturados" usando a analogia da "moeda do reino". Termine com a "Missão Zero": instruir o leitor a instalar o Power BI Desktop.
+*   **Capítulo 2: O Novo Mundo e o Mapa (Interface do Power BI):** Descreva a interface do Power BI como o "mapa do novo mundo". Explique as três visões (Relatório, Tabela, Modelo) como as "três regiões do reino". Apresente o botão "Obter Dados" como o "portal de conexão" e reforce a regra de ouro de conectar em vez de copiar e colar.
+*   **Capítulo 3: A Magia da Limpeza (Power Query: Transformação):** Apresente o Power Query Editor como o "campo de batalha" ou "laboratório de alquimia" para limpar dados. Descreva as principais transformações (Separar Colunas, Promover Cabeçalhos, Preenchimento, etc.) como "feitiços de purificação", usando a tabela de referência fornecida no material original.
+*   **Capítulo 4: O Grimório Proibido (DAX: A Linguagem Secreta):** Introduza o DAX como a linguagem para cálculos mágicos. Explique a diferença entre "Medidas" (magos) e "Colunas Calculadas" (guerreiros). Forneça um exemplo simples de uma função DAX como `SUM` e explique o conceito de "Contexto de Filtro". Recomende focar em `CALCULATE`, `ALL`, `FILTER` e nas funções básicas para começar.
+*   **Capítulo 5: A Criação do Reino (Dashboards e Visualização):** Ensine como construir um dashboard eficaz. Dê dicas de arquitetura: KPIs no topo, gráficos simples para contar a história e Slicers para filtragem. Enfatize que o papel do herói é "contar a história" por trás dos números, usando sua experiência para dar significado aos dados.
+*   **Capítulo 6: A Guilda dos Aventureiros (Próximos Passos):** Dê os próximos passos para a jornada: DAX avançado (CALCULATE), aprofundar na linguagem M, juntar-se à "Guilda" (comunidades online) e considerar a certificação PL-300.
+*   **Conclusão: O Epílogo e a Próxima Fase:** Escreva uma conclusão inspiradora, celebrando a jornada completada. Termine com um gancho para o "Isekai Nível 2", mencionando o Microsoft Fabric e a IA como os próximos desafios para o aventureiro.
+
+Execute a escrita, capítulo por capítulo, mantendo a consistência do tom e da temática em todo o texto.
